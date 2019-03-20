@@ -1,0 +1,15 @@
+
+
+Command for Git bash 
+
+$cd "file path"
+$git init 
+$git add .
+$git commit -m "First commit"
+$git push origin master
+
+
+commad for cracking office professional plus  2016
+
+* cd \Program Files (x86)\Microsoft Office\Office16
+* cscript ospp.vbs /inpkey:XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99
