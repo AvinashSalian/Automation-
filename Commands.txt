@@ -2,14 +2,14 @@
 
 Command for Git bash 
 
-$cd "file path"
-$git init 
-$git add .
-$git commit -m "First commit"
-$git push origin master
+cd "file path"
+git init 
+git add .
+git commit -m "First commit"
+git push origin master
+git remote add origin https://github.com/AvinashSalian/Automation-.git
 
 
-commad for cracking office professional plus  2016
 
-* cd \Program Files (x86)\Microsoft Office\Office16
-* cscript ospp.vbs /inpkey:XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99
+git remote add origin https://github.com/AvinashSalian/Automation-.git
+git push -u origin master
