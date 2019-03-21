@@ -1,0 +1,55 @@
+Partlist exported from D:/Project/Home Automation/PCB Design/ESP12E Brain.sch at 20-03-2019 14:53
+
+Part     Value                        Device                               Package                              Description                 MF MPN OC_FARNELL OC_NEWARK PROD_ID   R1   SPICEPREFIX VALUE
+C1       10uF                         10UF-POLAR-RADIAL-2.5MM-25V-20%      CPOL-RADIAL-2.5MM-5MM                10.0µF polarized capacitors                             CAP-08440                  10uF 
+C2       10uF                         10UF-POLAR-RADIAL-2.5MM-25V-20%      CPOL-RADIAL-2.5MM-5MM                10.0µF polarized capacitors                             CAP-08440                  10uF 
+C3       0.1uf                        C-EU025-030X050                      C025-030X050                         CAPACITOR, European symbol                                             C                
+D1       1N4004                       1N4004                               DO41-10                              DIODE                                                                                   
+D2       1N4004                       1N4004                               DO41-10                              DIODE                                                                                   
+D3       1N4004                       1N4004                               DO41-10                              DIODE                                                                                   
+D4       1N4004                       1N4004                               DO41-10                              DIODE                                                                                   
+ESP12E                                ESP12ESMD                            ESP12E-SMD                           ESP12E Module                                                                           
+F1       500mA                        FUSEBLANK_5X20MM                     FUSE_HOLDER_5X20MM                   Fuse                               unknown    unknown                                   
+GPIO     Male Header                  M-1X03-SIP-100-32                    SIP-100-03-32                        MALE HEADER                                                                             
+HLK      HLK-PM013W                   HLK-PM013W                           HLK-PM01                             Hi-Link Power Supply                                                                    
+I2C      Male Header                  M-1X04-SIP-100-32                    SIP-100-04-32                        MALE HEADER                                                                             
+IC1      LM1117T-1.8                  LM1117T-1.8                          TO220                                                                                                                        
+LED1                                  LEDCHIP-LED0603                      CHIP-LED0603                         LED                                                                                     
+LED2                                  LEDCHIP-LED0603                      CHIP-LED0603                         LED                                                                                     
+LED3                                  LEDCHIP-LED0603                      CHIP-LED0603                         LED                                                                                     
+LED4                                  LEDCHIP-LED0603                      CHIP-LED0603                         LED                                                                                     
+LED5                                  LEDCHIP-LED0603                      CHIP-LED0603                         LED                                                                                     
+OK1      PC817                        PC817                                DIL04                                SHARP OPTO COUPLER                                                                      
+OK2      PC817                        PC817                                DIL04                                SHARP OPTO COUPLER                                                                      
+OK3      PC817                        PC817                                DIL04                                SHARP OPTO COUPLER                                                                      
+OK4      PC817                        PC817                                DIL04                                SHARP OPTO COUPLER                                                                      
+PROG     Male header                  M-1X04-SIP-100-32                    SIP-100-04-32                        MALE HEADER                                                                             
+R1       47k                          R-EU_0204/7                          0204/7                               RESISTOR, European symbol                                         4.7k 4.7k             
+R2       330E                         R-EU_0204/7                          0204/7                               RESISTOR, European symbol                                              R                
+R3       47k                          R-EU_0204/7                          0204/7                               RESISTOR, European symbol                                         4.7k 4.7k             
+R4       330E                         R-EU_0204/7                          0204/7                               RESISTOR, European symbol                                              R                
+R5       47k                          R-EU_0204/7                          0204/7                               RESISTOR, European symbol                                         4.7k 4.7k             
+R6       330E                         R-EU_0204/7                          0204/7                               RESISTOR, European symbol                                              R                
+R7       47k                          R-EU_0204/7                          0204/7                               RESISTOR, European symbol                                         4.7k 4.7k             
+R8       330E                         R-EU_0204/7                          0204/7                               RESISTOR, European symbol                                              R                
+R9       330R                         R-EU_0204/7                          0204/7                               RESISTOR, European symbol                                              R                
+R10      1k                           R-EU_0204/7                          0204/7                               RESISTOR, European symbol                                              R                
+R11      220E                         R-EU_0204/7                          0204/7                               RESISTOR, European symbol                                              R                
+R12      220E                         R-EU_0204/7                          0204/7                               RESISTOR, European symbol                                              R                
+R13      220E                         R-EU_0204/7                          0204/7                               RESISTOR, European symbol                                              R                
+R14      220E                         R-EU_0204/7                          0204/7                               RESISTOR, European symbol                                              R                
+REL1     TB 3.5MM                     TERMINAL-BLOCK-3.5MM-3-PIN-ROUND-PAD TERMINAL-BLOCK-3-PIN-3.5MM-ROUND-PAD Terminal Block 3.5mm                                                                    
+REL2     TB 3.5MM                     TERMINAL-BLOCK-3.5MM-3-PIN-ROUND-PAD TERMINAL-BLOCK-3-PIN-3.5MM-ROUND-PAD Terminal Block 3.5mm                                                                    
+REL3     TB 3.5MM                     TERMINAL-BLOCK-3.5MM-3-PIN-ROUND-PAD TERMINAL-BLOCK-3-PIN-3.5MM-ROUND-PAD Terminal Block 3.5mm                                                                    
+REL4     TB 3.5MM                     TERMINAL-BLOCK-3.5MM-3-PIN-ROUND-PAD TERMINAL-BLOCK-3-PIN-3.5MM-ROUND-PAD Terminal Block 3.5mm                                                                    
+RELAY1   SRD-0XVDC-SL-CSRD-05VDC-SL-C SRD-0XVDC-SL-CSRD-05VDC-SL-C         SRD-0XVDC-SL-C                       SRD-05VDC-SL-C                                                                          
+RELAY2   SRD-0XVDC-SL-CSRD-05VDC-SL-C SRD-0XVDC-SL-CSRD-05VDC-SL-C         SRD-0XVDC-SL-C                       SRD-05VDC-SL-C                                                                          
+RELAY3   SRD-0XVDC-SL-CSRD-05VDC-SL-C SRD-0XVDC-SL-CSRD-05VDC-SL-C         SRD-0XVDC-SL-C                       SRD-05VDC-SL-C                                                                          
+RELAY4   SRD-0XVDC-SL-CSRD-05VDC-SL-C SRD-0XVDC-SL-CSRD-05VDC-SL-C         SRD-0XVDC-SL-C                       SRD-05VDC-SL-C                                                                          
+SENSOR_2 Male Header                  M-1X03-SIP-100-32                    SIP-100-03-32                        MALE HEADER                                                                             
+SENSOR_3 Male Header                  M-1X03-SIP-100-32                    SIP-100-03-32                        MALE HEADER                                                                             
+T1       2N2222                       2N2222                               TO92-EBC-OVAL                        NPN TRANSISTOR                                                                          
+T2       2N2222                       2N2222                               TO92-EBC-OVAL                        NPN TRANSISTOR                                                                          
+T3       2N2222                       2N2222                               TO92-EBC-OVAL                        NPN TRANSISTOR                                                                          
+T4       2N2222                       2N2222                               TO92-EBC-OVAL                        NPN TRANSISTOR                                                                          
+X5       TB 3.5MM                     TERMINAL-BLOCK-3.5MM-2-PIN-ROUND-PAD TERMINAL-BLOCK-2-PIN-3.5MM-ROUND-PAD Terminal Block 3.5mm                                                                    
